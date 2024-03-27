@@ -1,0 +1,11 @@
+.textEditor .w-md-editor-bar{
+  height: 11px;
+  width: 100%;
+  cursor: row-resize;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-image:
+  url(
+    'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAFAQMAAABo7865AAAABlBMVEVHcEzMzMzyAv2sAAAAAXRSTlMAQObYZgAAABBJREFUeF5jOAMEEAIEEFwAn3kMwcB6I2AAAAAASUVORK5CYII='
+  );
+}
